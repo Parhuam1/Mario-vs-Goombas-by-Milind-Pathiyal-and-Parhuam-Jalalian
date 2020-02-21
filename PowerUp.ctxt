@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=PowerUp
+comment1.params=x\ y\ powerType
+comment1.target=PowerUp(int,\ int,\ int)
+comment2.params=
+comment2.target=void\ update()
+comment3.params=g2d
+comment3.target=void\ draw(java.awt.Graphics2D)
+comment4.params=
+comment4.target=java.awt.Rectangle\ gethitBox()
+comment5.params=
+comment5.target=int\ getPower()
+comment6.params=powerType
+comment6.target=void\ setPower(int)
+numComments=7
